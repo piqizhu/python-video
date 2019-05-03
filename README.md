@@ -7,7 +7,7 @@
 ---
 
 ## 微信公众号: 
-![](https://github.com/piqizhu/python-video/blob/master/gzh.jpg)
+![](https://raw.githubusercontent.com/piqizhu/python-video/master/gzh.jpg)
 
  
 更多视频，请访问 www.piqizhu.com
